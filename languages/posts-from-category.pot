@@ -1,0 +1,193 @@
+# Copyright (C) 2023 Manesh Timilsina
+# This file is distributed under the GNU/GPL http://www.gnu.org/copyleft/gpl.html.
+msgid ""
+msgstr ""
+"Project-Id-Version: Posts From Category 6.0.4\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/posts-from-category\n"
+"POT-Creation-Date: 2023-08-02 11:24:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: node-wp-i18n 1.2.7\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Posts From Category"
+msgstr ""
+
+#: inc/admin.php:23
+#. translators: %s: version.
+msgid "Version: %s"
+msgstr ""
+
+#: inc/editor.php:69
+msgid "Select Category"
+msgstr ""
+
+#: inc/editor.php:106
+msgid "PFC"
+msgstr ""
+
+#: inc/helpers.php:127
+msgid "Default"
+msgstr ""
+
+#: inc/helpers.php:156
+msgid "Author"
+msgstr ""
+
+#: inc/helpers.php:157
+msgid "Post Title"
+msgstr ""
+
+#: inc/helpers.php:158
+msgid "Post ID"
+msgstr ""
+
+#: inc/helpers.php:159
+msgid "Date"
+msgstr ""
+
+#: inc/helpers.php:160
+msgid "Menu Order"
+msgstr ""
+
+#: inc/helpers.php:161
+msgid "Number of Comments"
+msgstr ""
+
+#: inc/helpers.php:162
+msgid "Random"
+msgstr ""
+
+#: inc/helpers.php:177
+msgid "Ascending"
+msgstr ""
+
+#: inc/helpers.php:178
+msgid "Descending"
+msgstr ""
+
+#: inc/helpers.php:200
+msgid "No Image"
+msgstr ""
+
+#: inc/helpers.php:203
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/helpers.php:204
+msgid "Medium"
+msgstr ""
+
+#: inc/helpers.php:205
+msgid "Large"
+msgstr ""
+
+#: inc/helpers.php:206
+msgid "Full (original)"
+msgstr ""
+
+#: inc/helpers.php:251 inc/widget.php:139
+msgid "Read More"
+msgstr ""
+
+#: inc/widget.php:25
+msgid "Display posts from selected category"
+msgstr ""
+
+#: inc/widget.php:28
+msgid "MT: Posts From Category"
+msgstr ""
+
+#: inc/widget.php:148
+msgid "Title:"
+msgstr ""
+
+#: inc/widget.php:153
+msgid "Select Layout:"
+msgstr ""
+
+#: inc/widget.php:165
+msgid "Select Category:"
+msgstr ""
+
+#: inc/widget.php:175
+msgid "All Categories"
+msgstr ""
+
+#: inc/widget.php:182
+msgid "Select Tag:"
+msgstr ""
+
+#: inc/widget.php:192
+msgid "All Tags"
+msgstr ""
+
+#: inc/widget.php:200
+msgid "Order By:"
+msgstr ""
+
+#: inc/widget.php:214
+msgid "Order:"
+msgstr ""
+
+#: inc/widget.php:228
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/widget.php:233
+msgid "Exclude Posts:"
+msgstr ""
+
+#: inc/widget.php:235
+msgid "Enter post id separated with comma to exclude multiple posts"
+msgstr ""
+
+#: inc/widget.php:239
+msgid "Excerpt Length:"
+msgstr ""
+
+#: inc/widget.php:241
+msgid "Use 0 to hide Excerpt/Desc"
+msgstr ""
+
+#: inc/widget.php:245
+msgid "Read More Text:"
+msgstr ""
+
+#: inc/widget.php:247
+msgid "Leave this field empty to hide read more button"
+msgstr ""
+
+#: inc/widget.php:252
+msgid "Show Posted Date"
+msgstr ""
+
+#: inc/widget.php:257
+msgid "Display/Select Thumbnail"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://maneshtimilsina.com/plugins/posts-from-category/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin to display posts from specific category. It comes with multiple "
+"layout option to display post list. Option to select category or exclude "
+"post is available wgich provide advance filter to your requirement. You can "
+"enable or disable posted date, thumbnail, read more button and more easily "
+"from widget."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Manesh Timilsina"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://maneshtimilsina.com/"
+msgstr ""

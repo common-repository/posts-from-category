@@ -1,0 +1,6 @@
+<?php
+/**
+ * Index
+ *
+ * @package PostsFromCategory
+ */
